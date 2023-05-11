@@ -1,7 +1,7 @@
 # assignment1105
 assignment of orders 
 
-# clone the project in your system 
+# download the project in your system 
  run command npm install after that run command npm start for start the project 
 
  # postman reuests
